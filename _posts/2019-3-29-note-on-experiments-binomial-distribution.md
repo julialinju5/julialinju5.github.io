@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Binomial Distrubution"
+title: "Binomial Distrubution of Experiments and A/B Testing"
 date: 2019-03-29
 ---
-Assumptions - 
+
+Assumptions of Binomial Distribution:
+
 1) exactly 2 expected outcome; 
+
 2) independent events; 
+
 3) indentical distribution (p is the same for all)
 
 p_hat = x/N (estimated probability)
