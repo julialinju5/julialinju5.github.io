@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Binomial Distrubution
+title: "Binomial Distrubution"
+date: 2019-03-29
 ---
 Assumptions - 
 1) exactly 2 expected outcome; 
